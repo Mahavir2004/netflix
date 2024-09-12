@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+}
+
+.head {
+    color: red;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(Netflix-background_860c8ece6b34fb4f43af02255ca8f225.jpg);
+    background-repeat: no-repeat;
+;
+
+}
+
+.main {
+    display: flex;
+    background-image: url(Netflix-background_860c8ece6b34fb4f43af02255ca8f225.jpg);
+    background-repeat: no-repeat;
+}
+
+.b {
+    position: relative;
+    border: 2PX solid black;
+    border: none;
+    left: 65%
+    
+}
+
+.Welcome {
+    color: white;
+    position: absolute;
+    left: 33vw;
+    
+    
+
+}
+
+.second {
+    color: white;
+    position: relative;
+    left: 20%;
+    top: 5vh;
+    margin-bottom: 50px;
+
+    
+
+
+}
+.s{
+    background-color: red;
+    color: white;
+}
+.third{
+    color: white;
+    position: relative;
+    top: 110px;
+}
+.box1{
+    border: 2px solid red;
+    width: 60px;
+    height: 30px;
+    position: relative;
+    top: 130px;
+    background-color: red;
+}
